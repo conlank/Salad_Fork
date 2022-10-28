@@ -1,6 +1,6 @@
 # Mods
 
-Printer mods for Voron 3D printers
+Printer mods for the Salad Fork!
 Remember to update this README when uploading new mod!
 
 ## Table structure
@@ -16,5 +16,6 @@ like so:
 
 ---
 
-| Creator | Mod title | Description |
-| Midnite3DP | Captive Pins Mod | A mod for captive pins and mini pinned rama-style idlers |
+| Creator | Mod title | Description | 
+| --- | --- | --- |
+| Midnite3DP | [Captive Pins Mod](/mods/Captive-Pins-Mod/)| A mod for captive pins and mini pinned rama-style idlers |
