@@ -167,7 +167,7 @@ In this step, you will prepare the linear rails for use. Some vendors are provid
 * 1 extrusion G
 * 1 extrusion C (with Z rail attached)
 * 2 M3x8 BHCS
-* 14 M3 nuts 
+* 16 M3 nuts 
   
 **Steps:**
 1. Add one M3x8 BHCS into each end of the G extrusion, leaving about 2mm clearance 
