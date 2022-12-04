@@ -23,7 +23,7 @@
 
 **Parts needed:**
 * 5 M3x6 BHCS
-* 6 M3x8 SHCS
+* 6 M3x10 SHCS
 * 2 4010 axial fans
 
 **Printed parts:**
@@ -38,7 +38,7 @@
 
 ![](images/skirt_left_side.png)
 
-4. Mount the two 4010 axial fans to the fan_support piece using the M3x8 SHCS 
+4. Mount the two 4010 axial fans to the fan_support piece using the M3x10 SHCS 
 
 ![](images/skirt_fan_assembly.png)
 
