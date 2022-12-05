@@ -132,13 +132,14 @@
 * 1 extrusion A
 * 1 extrusion F
 * 1 M3x8 BHCS
-* 9 M3 nuts (11 if mounting a z endstop
+* 9 M3 nuts (11-15 if mounting a z endstop or 1-2 wago mounts for bed wiring)
 
 **Printed parts:**
 * 1 z_bed_left
 * 1 z_bed_right
 * 1 z_bed_rear
-* 1 z_endstop or 1515_sexbolt
+* (optional) 1 z_endstop or 1515_sexbolt
+* (optional) 1-2 3x2_wago_mount
 
 
 **Steps:**
@@ -147,7 +148,8 @@
 3. Join extrusion A to extrusion F using a M3x8 BHCS (refer to extrusion map to see how they join)
 4. Preload 3 nuts into the top of extrusion A 
 5. Preload 6 nuts into the top of extrusion F
-6. Preload 2 nuts into the side (left or right) of extrusion A
+6. (For the optional endstop) Preload 2 nuts into the side of extrusion A on the right side (as viewed from the front)
+7. (For optional wago mounts) Preload 2 nuts into the side of extrusion A on any side you want to mount wagos from
 
 ![](images/left_z_bed_ge5c.png)
 
