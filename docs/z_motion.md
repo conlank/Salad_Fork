@@ -105,7 +105,7 @@
 * 1 Leadscrew nut
 * 2 M3x12 SHCS
 * 2 M3 Nylock nuts 
-# 2 M3 Heatsets
+* 2 M3 Heatsets
 
 
 **Printed parts:**
@@ -132,12 +132,13 @@
 * 1 extrusion A
 * 1 extrusion F
 * 1 M3x8 BHCS
-* 9 M3 nuts
+* 9 M3 nuts (11 if mounting a z endstop
 
 **Printed parts:**
 * 1 z_bed_left
 * 1 z_bed_right
 * 1 z_bed_rear
+* 1 z_endstop or 1515_sexbolt
 
 
 **Steps:**
@@ -146,6 +147,7 @@
 3. Join extrusion A to extrusion F using a M3x8 BHCS (refer to extrusion map to see how they join)
 4. Preload 3 nuts into the top of extrusion A 
 5. Preload 6 nuts into the top of extrusion F
+6. Preload 2 nuts into the side (left or right) of extrusion A
 
 ![](images/left_z_bed_ge5c.png)
 
